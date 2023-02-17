@@ -1,14 +1,9 @@
 /**
- * A rpogram that prints exactly:
- * with proper grammer, but the outcome
- * is a piece of art,
+ * main - Entry point
+ * Return: 0 if successful
  */
 
 #include <stdio.h>
-
-/** 
- * this is the main function
- */
 
 int main(void)
 {
