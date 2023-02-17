@@ -7,8 +7,15 @@
 
 #include <stdio.h>
 
-int main()
+/**
+ * this is the main function
+ * 
+ */
+int main(void)
 {
-	puts("Programming is like building a multilingual puzzle");
-	return 0;
+	puts("\"Programming is like building a multilingual puzzle");
+	/**
+	 * the function returns 0
+	 */
+	return (0);
 }
