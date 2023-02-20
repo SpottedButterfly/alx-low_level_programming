@@ -5,7 +5,7 @@
 /**
  * main - assigning a random number to variable,
  * print whether negative or positive
- * @n: variable to be checked
+ * @n: variable
  *
  * Return: 0 if successful. 1 otherwise
  */
