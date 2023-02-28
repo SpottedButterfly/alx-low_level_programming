@@ -1,6 +1,7 @@
 /**
  * main - entry point
- * return 0 if successful
+ *
+ * Return: 0 if successful
  */
 
 #include <stdio.h>
