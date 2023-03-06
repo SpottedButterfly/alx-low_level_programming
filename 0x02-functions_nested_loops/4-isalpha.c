@@ -9,13 +9,11 @@
  * 0 otherwise
  */
 
-int _isalpha(int c);
+int _isalpha(int c)
 {
-	char ch;
-
-	if (ch >= 'A' && ch <= 'Z')
+	if (c >= 'A' && c <= 'Z')
 		return (1);
-	else if (ch >= 'a' && ch <= 'z')
+	else if (c >= 'a' && c <= 'z')
 		return (1);
 	else
 		return (0);

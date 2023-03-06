@@ -6,16 +6,6 @@
  *
  * Return: 0 if successful
  */
-void print_alphabet(void);
-
-/**
-* int main(void)
-* {
-*	print_alphabet();
-*	return (0);	
-* }
-*/
-
 void print_alphabet(void)
 {
 	char alpha;
@@ -25,6 +15,4 @@ void print_alphabet(void)
 		_putchar(alpha);
 
 	_putchar(c);
-
-	return;
 }
