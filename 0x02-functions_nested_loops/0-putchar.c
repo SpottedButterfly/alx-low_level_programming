@@ -2,6 +2,7 @@
 
 /**
  * main - prints _putchar
+ * @c: character to be used
  *
  * Return: 0 if successful
  */

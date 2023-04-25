@@ -4,12 +4,12 @@
 /**
  * _islower - checks for lowercase
  *
- * @c: character to pass to _islower function
+ * @ch: character to pass to _islower function
  *
- * Return: 1 if c is lowercase, otherwise 0
+ * Return: 1 if ch is lowercase, otherwise 0
  */
 
-int _islower(int c)
+int _islower(int ch)
 {
 	char ch;
 
