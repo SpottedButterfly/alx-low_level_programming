@@ -4,7 +4,6 @@
  * swap_int - swaps values of two integers
  * @a: first pointer
  * @b: second pointer
- * @tempVal: temporary value for swapping
  *
  * Return: nothing
  */
