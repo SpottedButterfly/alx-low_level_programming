@@ -1,16 +1,14 @@
 #include "main.h"
 
 /**
- * main - takes pointer to int as parameter
+ * reset_to_98 - takes pointer to int as parameter
  * and updates value it points to 98
+ * @n: pointer
  *
- * Return: 0 if successsful
+ * Return: nothing
  */
 
-int main(void)
+void  reset_to_98(int *n)
 {
-	int n = 98;
-
-	reset_to_98(&n);
-	return (0);
+	*n = 98;
 }
